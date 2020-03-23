@@ -1,0 +1,15 @@
+.header {
+    min-height: 400px;
+    background-image: url("../img/banner.jpeg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+   }
+
+.description {
+    position: absolute;
+    top: 25%;
+    color: lightskyblue;
+    margin: auto;
+}
+
